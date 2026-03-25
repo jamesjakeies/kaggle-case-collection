@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+
+data/raw/
+outputs/
+!*/outputs/.gitkeep
+!*/data/raw/.gitkeep
+
+.DS_Store
+Thumbs.db
